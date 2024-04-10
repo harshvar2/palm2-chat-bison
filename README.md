@@ -4,3 +4,6 @@ This application demonstrates a simple Form-based UI that represents a Chat widg
 
 
 Live Project - https://chat-flask-app-ueyjmh47cq-uc.a.run.app
+
+
+![Palm 2 API Chat](image.png)
